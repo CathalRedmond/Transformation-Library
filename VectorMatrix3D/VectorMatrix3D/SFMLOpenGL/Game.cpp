@@ -70,11 +70,11 @@ void Game::run()
 						triangleUpdated = true;
 						break;
 					case sf::Keyboard::F:
-						matrix = matrix.scale3D(1.005);
+						matrix = matrix.scale3D(1.1);
 						triangleUpdated = true;
 						break;
 					case sf::Keyboard::G:
-						matrix = matrix.scale3D(0.905);
+						matrix = matrix.scale3D(0.9);
 						triangleUpdated = true;
 						break;
 					default:

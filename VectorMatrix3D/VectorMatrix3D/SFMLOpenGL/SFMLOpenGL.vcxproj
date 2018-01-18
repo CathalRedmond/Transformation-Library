@@ -21,6 +21,11 @@
     <ClInclude Include="Matrix3D.h" />
     <ClInclude Include="Vector3D.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Matrix3.cs" />
+    <None Include="Quaternion.cs" />
+    <None Include="Vector3.cs" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1A83085E-24BD-4379-A8B5-CFDAE40AEF84}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>

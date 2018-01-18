@@ -1,6 +1,8 @@
-﻿  Game.cpp
-c:\users\cathal\desktop\vectormatrix3d\vectormatrix3d\sfmlopengl\game.cpp(132): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\cathal\desktop\vectormatrix3d\vectormatrix3d\sfmlopengl\game.cpp(133): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\cathal\desktop\vectormatrix3d\vectormatrix3d\sfmlopengl\game.cpp(134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-  SFMLOpenGL.vcxproj -> C:\Users\Cathal\Desktop\VectorMatrix3D\VectorMatrix3D\Debug\SFMLOpenGL.exe
-  SFMLOpenGL.vcxproj -> C:\Users\Cathal\Desktop\VectorMatrix3D\VectorMatrix3D\Debug\SFMLOpenGL.pdb (Partial PDB)
+﻿  Matrix3D.cpp
+  Game.cpp
+c:\users\c00214190\desktop\transformation-library\vectormatrix3d\vectormatrix3d\sfmlopengl\game.cpp(132): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00214190\desktop\transformation-library\vectormatrix3d\vectormatrix3d\sfmlopengl\game.cpp(133): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00214190\desktop\transformation-library\vectormatrix3d\vectormatrix3d\sfmlopengl\game.cpp(134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  SFMLOpenGL.vcxproj -> C:\Users\c00214190\Desktop\Transformation-Library\VectorMatrix3D\VectorMatrix3D\Debug\SFMLOpenGL.exe
+  SFMLOpenGL.vcxproj -> C:\Users\c00214190\Desktop\Transformation-Library\VectorMatrix3D\VectorMatrix3D\Debug\SFMLOpenGL.pdb (Partial PDB)
